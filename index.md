@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+###
 
-You can use the [editor on GitHub](https://github.com/Marinofull/marinofull.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Just a crazy developer who strive to be lazy. I'm a **vim** addicted and a completly linux xiita. I have a cople of years as a student of computer science lerning new technologies and challenging myself.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Twitter: [@marinofull](twitter.com/marinofull)
+- Email: intmarinoreturn0{at}gmail{dot}com
 
-### Markdown
+#### Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As I'm a linux user and focused on automate everything possible and stay as long as possible in the terminal, those are the skills I most grew up.
 
-```markdown
-Syntax highlighted code block
+#### Vim
 
-# Header 1
-## Header 2
-### Header 3
+Even before met this awesome editor I already had a vim user's mind. The mindset to type repetitive changes with the minimum effort, the thirst to automate everything in everywhere was quenched when I met Vim, vimium and vim-everywhere.
 
-- Bulleted
-- List
+#### GIT
 
-1. Numbered
-2. List
+Beyond a version control system for my projects, but also for my personal configurations of my computer, after met the first [dotfile](https://github.com/niltonvasques/dotfiles) repo it blew my mind and I was never lost again when using a different computer than my own. Now I can have all my personal configurations, snippets, aliases and that kind of stuff in just two commands.
 
-**Bold** and _Italic_ and `Code` text
+#### docker
 
-[Link](url) and ![Image](src)
-```
+Wow! That old story "It works on my computer" was terminated with this tool, and also it made possible to have many environments in one without mess up the things.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### php
 
-### Jekyll Themes
+I already worked with C, Java and JS before, and I started the web dev with php because I liked the c-like syntax (I still like it!) and in a Junior enterprise of my university begun my story with php which ended in Laravel, an awesome framework which I still have a crush.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Marinofull/marinofull.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Rails
 
-### Support or Contact
+This great framework was the inspiration for the Laravel, it was the only thing I knew about it when I started to work with it, I didn't even knew ruby basic stuffs, like define a method... My boss just told me to fix a bug in a API response and it all begins! I knew the structures of this framework from Laravel, then in few hours the job was done. Now I'm a better rails developer and in love for this new framework.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Linux
+
+Well, if I had to do something outside vim I'll certainly grumble, the worst situation is outside of linux, may God spare me for those sad moments. I have more than five years of linux, so I know the tricks. The ease flexibility of this OS is the key of my productivity.
