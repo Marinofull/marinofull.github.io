@@ -2,10 +2,10 @@
 
 Just a crazy developer who strive to be lazy. I'm a **vim** addicted and a completly linux xiita. I have a cople of years as a student of computer science lerning new technologies and challenging myself.
 
-- Twitter: [@marinofull](twitter.com/marinofull)
+- Twitter: [@marinofull](//twitter.com/marinofull)
 - Email: intmarinoreturn0{at}gmail{dot}com
 
-#### Skills
+### Skills
 
 As I'm a linux user and focused on automate everything possible and stay as long as possible in the terminal, those are the skills I most grew up.
 
