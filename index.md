@@ -11,11 +11,11 @@ As I'm a Linux user and focused on automate everything possible and stay as long
 
 #### Vim
 
-Even before met this awesome editor I already had a vim user's mind. The mindset to type repetitive changes with the minimum effort, the thirst to automate everything in everywhere was quenched when I met Vim, vimium and vim-everywhere.
+Even before I met this awesome editor I already had a vim user's mind. The mindset to type repetitive changes with the minimum effort, the thirst to automate everything in everywhere was quenched when I met Vim, vimium and vim-everywhere.
 
 #### GIT
 
-Beyond a version control system for my projects, but also for my personal configurations of my computer, after met the first [dotfile](https://github.com/niltonvasques/dotfiles) repo it blew my mind and I was never lost again when using a different computer than my own. Now I can have all my personal configurations, snippets, aliases and that kind of stuff in just two commands.
+Beyond a version control system for my projects, but also for my personal configurations in my computer, after met the first [dotfile](https://github.com/niltonvasques/dotfiles) repo it blew my mind and I was never lost again when using a different computer than my own. Now I can have all my personal configurations, snippets, aliases and that kind of stuff in just two commands.
 
 #### docker
 
@@ -32,3 +32,6 @@ This great framework was the inspiration for the Laravel, it was the only thing 
 #### Linux
 
 Well, if I had to do something outside vim I'll certainly grumble, the worst situation is outside of Linux, may God spare me for those sad moments. I have more than five years of Linux, so I know the tricks. The ease flexibility of this OS is the key of my productivity.
+
+
+######                                                                                                       include {cool footer}
