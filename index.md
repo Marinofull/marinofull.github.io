@@ -1,13 +1,13 @@
 ###
 
-Just a crazy developer who strive to be lazy. I'm a **vim** addicted and a completly linux xiita. I have a cople of years as a student of computer science lerning new technologies and challenging myself.
+Just a crazy developer who strive to be lazy. I'm a **vim** addicted and a completely Linux xiita. I have a couple of years as a student of computer science leaning new technologies and challenging myself.
 
 - Twitter: [@marinofull](//twitter.com/marinofull)
 - Email: intmarinoreturn0{at}gmail{dot}com
 
 ### Skills
 
-As I'm a linux user and focused on automate everything possible and stay as long as possible in the terminal, those are the skills I most grew up.
+As I'm a Linux user and focused on automate everything possible and stay as long as possible in the terminal, those are the skills I most grew up.
 
 #### Vim
 
@@ -31,4 +31,4 @@ This great framework was the inspiration for the Laravel, it was the only thing 
 
 #### Linux
 
-Well, if I had to do something outside vim I'll certainly grumble, the worst situation is outside of linux, may God spare me for those sad moments. I have more than five years of linux, so I know the tricks. The ease flexibility of this OS is the key of my productivity.
+Well, if I had to do something outside vim I'll certainly grumble, the worst situation is outside of Linux, may God spare me for those sad moments. I have more than five years of Linux, so I know the tricks. The ease flexibility of this OS is the key of my productivity.
